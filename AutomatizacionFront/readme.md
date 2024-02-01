@@ -51,4 +51,5 @@ Agregar la versión de Chrome dependiendo de la que se tenga localmente
 
 ## Comando de ejecución:
 mvn test -Dtest=com.co.sofka.runners.UserLoginRunner
+
 Nota: se debe cambiar el nombre del runner que se deba ejecutar
