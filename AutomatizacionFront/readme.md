@@ -14,7 +14,9 @@ message: Mensaje que se valida si fue satisfactorio o no
 ### Pestaña del excel que se debe modificar: escenario2
 ### Parámetros de Entrada:
 Usuario: usuario que inicia sesión
+
 password: password que inicia sesión
+
 
 ## addPurcharseProduct
 ### Pestaña del excel que se debe modificar: escenario3
