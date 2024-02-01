@@ -1,6 +1,6 @@
 # Sofka
 
-## Se realiza la entrega de tres Features, de los cuales se muestra a continuación:
+Se realiza la entrega de tres Features, de los cuales se muestra a continuación:
 
 ## userRegister
 ### Pestaña del excel que se debe modificar: escenario1
