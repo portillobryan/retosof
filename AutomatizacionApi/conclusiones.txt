@@ -1,0 +1,2 @@
+Se me dificultó un poco creando los paths para agregar los items al carro y que sea dinamico dependiendo del nombre que se ingrese en el excel!
+
